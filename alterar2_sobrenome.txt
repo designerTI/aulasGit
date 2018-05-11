@@ -1,6 +1,6 @@
-Ednilson Fernando Devilla
+﻿Ednilson Fernando Devilla
 
-� super legal!
+É super legal!
 
 CEBRAC
 
@@ -8,4 +8,7 @@ CEBRAC
 Criando a linha 6
 
 
+
 Llinha 10?
+
+criar a linha 10
